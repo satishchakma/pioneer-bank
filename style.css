@@ -206,7 +206,7 @@ section {
 }
 .show-numbers{
     display: flex;
-   
+    justify-content: space-between;
     width: 75%;
     margin: auto;
     column-gap: 20px;
